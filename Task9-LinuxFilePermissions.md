@@ -42,4 +42,4 @@ Please note that in case of bash script, bash is the interpreter that is actuall
 ![Image](https://github.com/srabhayraj/KodeKloud-Engineer-Linux-Tasks/blob/main/metadata/task9/Screenshot%20(1687).png)
 
 
-All about [Linux File Permission](https://github.com/srabhayraj/KodeKloud-Engineer-Linux-Tasks/blob/main/data/LinuxFilePermissions.md)
+## All about [Linux File Permission](https://github.com/srabhayraj/KodeKloud-Engineer-Linux-Tasks/blob/main/data/LinuxFilePermissions.md)
